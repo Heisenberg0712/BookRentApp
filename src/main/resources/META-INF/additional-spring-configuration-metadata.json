@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "server.port",
+      "type": "java.lang.String",
+      "description": "Description for server.port."
+    },
+    {
+      "name": "spring.data.mongodb.database",
+      "type": "java.lang.String",
+      "description": "Description for spring.data.mongodb.database."
+    },
+    {
+      "name": "spring.data.mongodb.port",
+      "type": "java.lang.String",
+      "description": "Description for spring.data.mongodb.port."
+    },
+    {
+      "name": "spring.data.mongodb.host",
+      "type": "java.lang.String",
+      "description": "Description for spring.data.mongodb.host."
+    }
+  ] }
